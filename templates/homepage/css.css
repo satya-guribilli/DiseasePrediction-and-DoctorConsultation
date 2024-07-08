@@ -1,0 +1,12 @@
+
+.img {
+    position: relative;
+    float: left;
+    width:  200px;
+    height: 200px;
+    background-position: 100% 100%;
+    /* background-color: rgb(95, 151, 148); */
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
